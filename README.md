@@ -1,4 +1,6 @@
-## Hello! I'm Juan :)
+`Hello World!`
+
+> I would give everything I know for half of what I don't know
 
 
 - 🔭 I’m currently working on graduation 😢
