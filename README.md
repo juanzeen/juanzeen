@@ -1,4 +1,4 @@
-`Hello World! Welcome to MY WORLD!`
+### `Hello World! Welcome to MY WORLD!`
 
 ## Who am I? 👨‍🦱
 - My name is Juan and i'm just a curious in the tech world :globe_with_meridians:
@@ -30,5 +30,5 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 <a href="https://twitter.com/juanzeenho" target="_blank"> <img src="images/x.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
-<a href="https://www.instagram.com/juanzeenn/" target="_blank"> <img src="images/insta.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
+<a href="https://www.instagram.com/juanzeenn/" target="_blank"> <img src="images/insta.png" style=" width:110px; margin: 0 15px;"/></a>
 </div>
