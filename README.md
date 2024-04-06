@@ -1,6 +1,6 @@
 `Hello World! Welcome to MY WORLD!`
 
-## Who am I?
+## Who am I? 👨‍🦱
 - My name is Juan and i'm just a curious in the tech world :globe_with_meridians:
 - Actually i'm in the graduation of Computer Science :mortar_board:
 - This is my university: [UENF :school:](https://www.uenf.br)
