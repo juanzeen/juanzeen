@@ -11,9 +11,9 @@
 
 ## Learning :computer:
 <div style="display: flex; justify-content: space-around; align-items: center;">
-<img src="images/elixirlogo.png" style=" width:150px; margin:0 25px;"/>
-<img src="images/js.png" style=" width:150px; margin: 0 25px;"/>
-<img src="images/c.png" style=" width:150px; margin: 0 25px;"/>
+<img src="images/elixirlogo.png" alt="elixir" style=" width:150px; margin:0 25px;"/>
+<img src="images/js.png" style=" alt="javascript" width:150px; margin: 0 25px;"/>
+<img src="images/c.png" style=" alt="C" width:150px; margin: 0 25px;"/>
 </div>
 
 ## Objectives
