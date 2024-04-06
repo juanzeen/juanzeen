@@ -3,7 +3,7 @@
 ## Who am I?
 - My name is Juan and i'm just a curious in the tech world :globe_with_meridians:
 - Actually i'm in the graduation of Computer Science :mortar_board:
-- This is my university: [:school:](https://www.uenf.br)
+- This is my university: [UENF :school:](https://www.uenf.br)
 
 
 > I would give everything I know for half of what I don't know
@@ -11,9 +11,9 @@
 
 ## Learning :computer:
 <div style="display: flex; justify-content:space-around; align-items: center; margin: 40px 0; gap:15px">
-<img src="images/elixirlogo.png" style="position:float; width:150px; margin:0 15px;"/>
-<img src="images/js.png" style="position:float; width:150px; margin: 0 15px;"/>
-<img src="images/c.png" style="position:float; width:150px; margin: 0 15px;"/>
+<img src="images/elixirlogo.png" style=" width:150px; margin:0 15px;"/>
+<img src="images/js.png" style=" width:150px; margin: 0 15px;"/>
+<img src="images/c.png" style=" width:150px; margin: 0 15px;"/>
 </div>
 
 ## Objectives
