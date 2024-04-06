@@ -29,6 +29,6 @@
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-<a href="https://twitter.com/juanzeenho"> <img src="images/x.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
-<a href="https://twitter.com/juanzeenho"> <img src="images/insta.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
+<a href="https://twitter.com/juanzeenho" target="_blank"> <img src="images/x.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
+<a href="https://www.instagram.com/juanzeenn/" target="_blank"> <img src="images/insta.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
 </div>
