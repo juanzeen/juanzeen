@@ -10,7 +10,7 @@
 
 
 ## Learning :computer:
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
 <img src="images/elixirlogo.png" style=" width:150px; margin:0 25px;"/>
 <img src="images/js.png" style=" width:150px; margin: 0 25px;"/>
 <img src="images/c.png" style=" width:150px; margin: 0 25px;"/>
@@ -28,16 +28,7 @@
 ## Contact me
 
 
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
 <a href="https://twitter.com/juanzeenho"> <img src="images/x.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
 <a href="https://twitter.com/juanzeenho"> <img src="images/insta.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
 </div>
-
-<style>
-  div{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap:15px;
-  }
-</style>
