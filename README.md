@@ -11,11 +11,9 @@
 
 ## Learning :computer:
 <div style="display: flex; justify-content:space-around; align-items: center; margin: 40px 0">
-
 <img src="images/elixirlogo.png" style="position:float; width:150px; margin:0 15px;"/>
 <img src="images/js.png" style="position:float; width:150px; margin: 0 15px;"/>
 <img src="images/c.png" style="position:float; width:150px; margin: 0 15px"/>
-
 </div>
 
 ## Objectives
@@ -31,9 +29,6 @@
 
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
-
 <a href="https://twitter.com/juanzeenho"> <img src="images/x.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
-
 <a href="https://twitter.com/juanzeenho"> <img src="images/insta.png" href="https://www.instagram.com/juanzeenn/" style=" width:110px; margin: 0 15px;"/></a>
-
 </div>
