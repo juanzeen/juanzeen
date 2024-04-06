@@ -10,10 +10,10 @@
 
 
 ## Learning :computer:
-<div style="display: flex; justify-content:space-around; align-items: center; margin: 40px 0">
+<div style="display: flex; justify-content:space-around; align-items: center; margin: 40px 0; gap:15px">
 <img src="images/elixirlogo.png" style="position:float; width:150px; margin:0 15px;"/>
 <img src="images/js.png" style="position:float; width:150px; margin: 0 15px;"/>
-<img src="images/c.png" style="position:float; width:150px; margin: 0 15px"/>
+<img src="images/c.png" style="position:float; width:150px; margin: 0 15px;"/>
 </div>
 
 ## Objectives
