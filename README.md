@@ -17,7 +17,7 @@
 </div>
 
 ## Objectives
-- `They have no order ;)`
+`They have no order ;)`
 - [ ] First job;
 - [ ] Finish the graduation;
 - [ ] Be a full stack developer;
