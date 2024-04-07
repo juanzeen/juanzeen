@@ -18,12 +18,12 @@
 
 ## Objectives
 - `They have no order ;)`
-- First job :x:;
-- Finish the graduation :x:;
-- Be a full stack developer :x:;
-- Make projects for help the world :x:;
-- Spread knowledge :x:;
-- Reciprocate all the support i received :x:
+- [ ] First job;
+- [ ] Finish the graduation;
+- [ ] Be a full stack developer;
+- [ ] Make projects for help the world;
+- [ ] Spread knowledge;
+- [ ] Reciprocate all the support i received.
 
 ## Contact me
 
