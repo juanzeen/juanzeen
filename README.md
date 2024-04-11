@@ -3,7 +3,8 @@
 ## Who am I? 👨‍🦱
 - My name is Juan and i'm just a curious in the tech world :globe_with_meridians:
 - Actually i'm in the graduation of Computer Science :mortar_board:
-- This is my university: [UENF :school:](https://www.uenf.br)
+- IT technician from IFF - Quissamã 🏫
+- This is my university: [UENF 🏫:](https://www.uenf.br)
 
 
 > I would give everything I know for half of what I don't know
