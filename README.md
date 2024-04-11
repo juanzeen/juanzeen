@@ -17,7 +17,7 @@
 <img src="images/c.png" alt="C" style="width:130px; margin: 0 50px;"/>
 </div>
 
-## Objectives
+## Objectives 📌
 `They have no order ;)`
 - [ ] First job;
 - [ ] Finish the graduation;
@@ -26,7 +26,7 @@
 - [ ] Spread knowledge;
 - [ ] Reciprocate all the support i received.
 
-## Contact me
+## Contact me 📢
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
