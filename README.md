@@ -10,10 +10,10 @@ focusing: ["elixir", "phoenix"]
 
 <br> 
 
-### Learning
+### Techs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,javascript,react,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=elixir,postgres,javascript,react" />
   </a>
 </p>
 
