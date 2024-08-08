@@ -11,11 +11,11 @@
 
 
 ## Learning :computer:
-<div style="display: flex; justify-content: space-around; align-items: center;">
-<img src="images/elixirlogo.png" alt="elixir" style=" width:130px; margin:0 50px;"/>
-<img src="images/js.png" alt="javascript" style="width:130px; margin: 0 50px;"/>
-<img src="images/c.png" alt="C" style="width:130px; margin: 0 50px;"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elixir,javascript,react,docker,postgres" />
+  </a>
+</p>
 
 ## Objectives 📌
 `They have no order ;)`
