@@ -17,11 +17,15 @@
   </a>
 </p>
 
-## Objectives 📌
-`They have no order ;)`
-- [ ] First job;
-- [ ] Finish the graduation;
-- [ ] Be a full stack developer;
-- [ ] Make projects for help the world;
-- [ ] Spread knowledge;
-- [ ] Reciprocate all the support i received.
+<br>
+
+## Stats
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanzeen&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanzeen&layout=compact&theme=tokyonight)
+</div>
+
+
