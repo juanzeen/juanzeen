@@ -3,8 +3,9 @@ def me do
 %Human{
 name: "Juan Cristo",
 age: 19,
-titles: %{informatic_technician: :finished, computer_scientist: :graduating},
-focusing: ["elixir", "phoenix"]
+titles: %{informatic_technician: :finished, computer_scientist: :loading},
+focusing: ["elixir", "phoenix"],
+projects: ["plataforma pescarte"]
 }
 end
 
