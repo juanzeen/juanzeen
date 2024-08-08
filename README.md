@@ -1,7 +1,3 @@
-### `Hello World! Welcome to MY WORLD!`
-
-## Me 👨‍🦱
-
 ```elixir
 %Human{
 name: "Juan Cristo",
@@ -12,17 +8,16 @@ focusing: ["elixir", "phoenix"]
 
 ```
 
-## Learning :computer:
-
 <br> 
 
+### Learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=elixir,javascript,react,docker,postgres" />
   </a>
 </p>
 
-## Stats
+### Stats
 
 <div align="center">
   
