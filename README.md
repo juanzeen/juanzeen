@@ -1,12 +1,12 @@
 ```elixir
 def me do 
-%Human{
-name: "Juan Cristo",
-age: 19,
-titles: %{informatic_technician: :finished, computer_scientist: :loading},
-focusing: ["elixir", "phoenix"],
-projects: ["plataforma pescarte"]
-}
+  %Human{
+    name: "Juan Cristo",
+    age: 19,
+    titles: %{informatic_technician: :finished, computer_scientist: :loading},
+    focusing: ["elixir", "phoenix"],
+    projects: ["plataforma pescarte"]
+  }
 end
 
 ```
