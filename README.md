@@ -16,7 +16,7 @@ end
 ### Techs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,postgres,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=elixir,postgres,javascript,react,tailwind" />
   </a>
 </p>
 
