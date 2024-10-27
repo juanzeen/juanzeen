@@ -5,7 +5,7 @@ def me do
     age: 19,
     titles: %{informatic_technician: :finished, computer_scientist: :loading},
     focusing: ["elixir", "phoenix"],
-    projects: ["plataforma pescarte"]
+    projects: ["plataforma pescarte", "SCTI 2024", "portal uenf"]
   }
 end
 
