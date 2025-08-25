@@ -2,7 +2,7 @@
 def me do 
   %Human{
     name: "Juan Cristo",
-    age: 19,
+    age: 20,
     titles: %{informatic_technician: :finished, computer_scientist: :loading},
     focusing: ["elixir", "phoenix", "react", "node.js"],
     projects: ["plataforma pescarte", "SCTI 2024", "portal uenf"]
@@ -16,7 +16,7 @@ end
 ### Techs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,elixir,javascript,typescript,react,nodejs,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=postgres,elixir,javascript,typescript,react,nextjs,nodejs,nestjs,html,css,tailwind" />
   </a>
 </p>
 
