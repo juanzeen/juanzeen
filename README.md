@@ -4,8 +4,8 @@ def me do
     name: "Juan Cristo",
     age: 20,
     titles: %{informatic_technician: :finished, computer_scientist: :loading},
-    focusing: ["elixir", "phoenix", "react", "node.js"],
-    projects: ["plataforma pescarte", "SCTI 2024", "portal uenf"]
+    focusing: ["react", "node.js", "next.js", "nest.js"],
+    projects: ["plataforma pescarte", "SCTI 2024", "portal uenf", "SCTI 2025", "radio uenf"]
   }
 end
 
