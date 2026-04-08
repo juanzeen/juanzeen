@@ -20,13 +20,6 @@ end
   </a>
 </p>
 
-### Stats
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanzeen&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanzeen&layout=compact&theme=tokyonight)
-</div>
 
 
