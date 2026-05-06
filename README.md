@@ -5,7 +5,7 @@ def me do
     age: 20,
     titles: %{informatic_technician: :finished, computer_scientist: :loading},
     focusing: ["react", "node.js", "next.js", "nest.js"],
-    projects: ["plataforma pescarte", "SCTI 2024", "portal uenf", "SCTI 2025", "radio uenf"]
+    projects: ["plataforma pescarte", "SCTI 2024", "portal uenf", "SCTI 2025", "radio uenf", "cheaptracker", "eventos uenf"]
   }
 end
 
