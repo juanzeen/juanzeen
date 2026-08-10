@@ -33,6 +33,7 @@ I am a Computer Science student at UENF and an Informatics Technician from IFF. 
 *   **SCTI 2025:** I developed critical features for the platform, including a QR Code check-in system that reduced activity registration time by 50%.
 *   **Hackathon Inova Norte 2025:** I won 2nd place with the *SiConn* project, developing the integration between the platform and Discord for automated question forums.
 *   **CheapTracker:** A logistics project focused on routing, architected with Django, Docker, and PostgreSQL, utilizing agile methodologies and Swagger documentation.
+*   **Magical Lineup:** A lineup builder created with Expo and React native, focused in agility and offline performance, for football enthusiasts and potentital coaches.
 
 *I am always open to talking about technology, Full Stack development, and new opportunities. Let's connect!*
 
