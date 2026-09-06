@@ -15,7 +15,7 @@ I am a Computer Science student at UENF and an Informatics Technician from IFF. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,tailwind" />
   </a>
 </p>
 
